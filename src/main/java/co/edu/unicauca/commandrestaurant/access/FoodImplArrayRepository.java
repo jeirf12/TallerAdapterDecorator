@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Implementación del repositorio con arreglos
  *
- * @author Libardo, Julio
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class FoodImplArrayRepository implements IFoodRepository {
 

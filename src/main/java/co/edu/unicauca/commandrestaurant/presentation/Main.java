@@ -8,8 +8,9 @@ import co.edu.unicauca.commandrestaurant.domain.FoodTypeEnum;
 import co.edu.unicauca.commandrestaurant.domain.Invoker;
 
 /**
+ * Ejecución secundaria del programa por consola 
  *
- * @author libardo
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Main {
 

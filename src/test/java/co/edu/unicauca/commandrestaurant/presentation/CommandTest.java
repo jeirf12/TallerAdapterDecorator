@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author Libardo, Julio
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class CommandTest {
 

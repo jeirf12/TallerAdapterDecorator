@@ -9,7 +9,7 @@ import java.util.HashMap;
 /**
  * Implementación del repositorio con Mapas
  *
- * @author @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class FoodMapRepository {
 

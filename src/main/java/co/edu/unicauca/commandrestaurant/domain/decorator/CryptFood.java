@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package co.edu.unicauca.commandrestaurant.domain.decorator;
 
 import co.edu.unicauca.commandrestaurant.domain.Food;
@@ -13,8 +8,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
+ * Clase decorador criptográfico de comida
  *
- * @author fallen
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class CryptFood extends Food{
     private Food myFoodCrypt;

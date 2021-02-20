@@ -5,8 +5,9 @@ import co.edu.unicauca.commandrestaurant.domain.FoodTypeEnum;
 import co.unicauca.commandRestaurant.infra.Utilities;
 
 /**
+ * Clase decorador Capital de comida
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class CapitalFood extends Food {
     /**

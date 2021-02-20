@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package co.edu.unicauca.commandrestaurant.access.adapter;
 
 import co.edu.unicauca.commandrestaurant.domain.Food;
 import java.util.List;
 
 /**
+ * Interface Utilizada como puente de comunicación o Api con la interfaz del Usuario
  *
- * @author fallen
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public interface IFoodJsonRepository {
     public boolean add(Food food);

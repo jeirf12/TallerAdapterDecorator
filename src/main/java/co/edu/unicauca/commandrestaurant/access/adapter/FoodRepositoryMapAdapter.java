@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * Adaptador de FoodMapRepository. Implementa la misma interfaz IFoodRepository
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class FoodRepositoryMapAdapter implements IFoodRepository {
 

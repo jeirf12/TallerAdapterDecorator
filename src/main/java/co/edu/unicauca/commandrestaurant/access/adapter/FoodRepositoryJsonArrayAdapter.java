@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package co.edu.unicauca.commandrestaurant.access.adapter;
 
 import co.edu.unicauca.commandrestaurant.access.IFoodRepository;
@@ -12,12 +7,18 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
- * @author fallen
+ * Adaptador de FoodArrayRepository. Implementa la misma interfaz IFoodRepository
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class FoodRepositoryJsonArrayAdapter implements IFoodRepository {
+    /**
+     * Repositorio adaptado
+     */
     private FoodJsonArrayRepository service;
     
+    /**
+     * Constructor
+     */
     public FoodRepositoryJsonArrayAdapter(){
         service=new FoodJsonArrayRepository();
     }

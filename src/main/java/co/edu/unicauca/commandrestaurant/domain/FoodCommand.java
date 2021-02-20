@@ -7,7 +7,7 @@ import co.edu.unicauca.commandrestaurant.domain.service.FoodService;
 /**
  * Clase abstracta que representa un Comando cualquieraF
  *
- * @author Libardo, Julio
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public abstract class FoodCommand {
       protected IFoodRepository repo;

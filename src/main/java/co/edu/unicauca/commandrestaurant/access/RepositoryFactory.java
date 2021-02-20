@@ -7,7 +7,7 @@ import co.unicauca.commandRestaurant.infra.Utilities;
 /**
  * Fabrica que se encarga de instanciar un repositorio concreto
  *
- * @author Libardo, Julio
+ * @author Jhonny Rosero, Jhonfer Ruiz 
  */
 public class RepositoryFactory {
 
